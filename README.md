@@ -1,12 +1,12 @@
-## 마인크래프트 1.2x 한글 폰트 리소스팩
+## 마인크래프트 26.2 한글 폰트 리소스팩
 
-마인크래프트 1.2x 버전용 더 잘 보이는 한글 폰트 리소스팩입니다.
+마인크래프트 26.2 버전용 더 잘 보이는 한글 폰트 리소스팩입니다.
 다운로드 받으려면 아래 링크를 클릭하세요.
 
-Minecraft 1.2x resource pack for better-looking Hangul (Korean) fonts.
+Minecraft 26.2 resource pack for better-looking Hangul (Korean) fonts.
 To download the resource pack, click link below.
 
- * [BetterHangulFont.zip](https://github.com/oruur/bhf4mc/raw/master/BetterHangulFont.zip)
+ * [BetterHangulFont.zip](https://github.com/o-zonc/bhf4mc/raw/master/BetterHangulFont.zip)
 
 유니코드 글꼴 강제 사용 옵션을 켜면 영문도 리소스팩에 포함된 글꼴이 적용되고,
 옵션을 끄면 디폴트 영문 글꼴이 적용됩니다.
